@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProgressHUD Demo</string>
+    <string name="simple_indeterminate">Simple Indeterminate</string>
+    <string name="simple_progress">Two Line Radial Progress</string>
+    <string name="single_line_progress">Single Line Radial</string>
+</resources>
